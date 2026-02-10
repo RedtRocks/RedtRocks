@@ -5,31 +5,31 @@ I'm a **Computer Science student** at **Thapar Institute of Engineering and Tech
 ---
 
 ### 💻 What I'm Working On
-* **Agentic AI security:** Currently building a **Capstone Project** focused on **Agentic AI Security**.
-* **AI/ML & Cloud:** Integrating machine learning models with cloud-native infrastructure for seamless deployment.
+
+- **Agentic AI security:** Currently building a **Capstone Project** focused on **Agentic AI Security**.
+- **AI/ML & Cloud:** Integrating machine learning models with cloud-native infrastructure for seamless deployment.
 
 ---
 
 ### 🛠 Tech Stack
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | C++, Python, SQL |
-| **Backend & DBs** |FastAPI,  MySQL, PostgreSQL |
+| Category           | Tools & Languages                        |
+| :----------------- | :--------------------------------------- |
+| **Languages**      | C++, Python, SQL                         |
+| **Backend & DBs**  | FastAPI, MySQL, PostgreSQL               |
 | **Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD Pipelines |
-| **Frontend** | HTML5, CSS3, React |
-| **AI/ML** | TensorFlow, PyTorch, Scikit-learn |
+| **Frontend**       | HTML5, CSS3, React                       |
+| **AI/ML**          | TensorFlow, PyTorch, Scikit-learn        |
 
 ---
 
 ### 📊 GitHub Stats
-(![My GitHub Metrics](github-metrics.svg))
-
 
 ---
 
 ### 🤝 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/aaravdudeja](https://linkedin.com/in/aaravdudeja)
-* **Email:** [messdank@example.com](mailto:messdank@example.com)
+
+- **LinkedIn:** [linkedin.com/in/aaravdudeja](https://linkedin.com/in/aaravdudeja)
+- **Email:** [messdank@example.com](mailto:messdank@example.com)
 
 > "The best way to predict the future is to invent it." – Alan Kay
