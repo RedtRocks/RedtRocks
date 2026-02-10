@@ -23,7 +23,7 @@ I'm a **Computer Science student** at **Thapar Institute of Engineering and Tech
 ---
 
 ### 📊 GitHub Stats
-[![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=RedtRocks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+(![My GitHub Metrics](github-metrics.svg))
 
 
 ---
