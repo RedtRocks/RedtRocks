@@ -23,8 +23,8 @@ I'm a **Computer Science student** at **Thapar Institute of Engineering and Tech
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedtRocks&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedtRocks&layout=compact&theme=radical)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RedtRocks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedtRocks&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
