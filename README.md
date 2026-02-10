@@ -29,7 +29,7 @@ I'm a **Computer Science student** at **Thapar Institute of Engineering and Tech
 ---
 
 ### 🤝 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/aaravdudeja)
-* **Email:** [your.email@example.com](mailto:messdank@example.com)
+* **LinkedIn:** [linkedin.com/in/aaravdudeja](https://linkedin.com/in/aaravdudeja)
+* **Email:** [messdank@example.com](mailto:messdank@example.com)
 
 > "The best way to predict the future is to invent it." – Alan Kay
