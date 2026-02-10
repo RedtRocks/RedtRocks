@@ -24,7 +24,7 @@ I'm a **Computer Science student** at **Thapar Institute of Engineering and Tech
 ---
 
 ### 📊 GitHub Stats
-
+![My GitHub Metrics](github-metrics.svg)
 ---
 
 ### 🤝 Let's Connect!
